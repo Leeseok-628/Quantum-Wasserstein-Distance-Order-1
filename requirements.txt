@@ -1,3 +1,5 @@
 MATLAB R2023a (Update 5)
 CVX 2.2 (Build 1148, released Jan 2020)
+Solver: MOSEK 9.1.9 (via CVX)
+License: Required (academic licenses available at https://www.mosek.com/)
 Tested on macOS 12.2.1 (Apple M1 Pro)
