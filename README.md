@@ -5,7 +5,7 @@ This repository contains MATLAB code for computing the quantum Wasserstein dista
 **"The Quantum Wasserstein Distance of Order 1"**  [IEEE Transactions on Information Theory, 2021](https://ieeexplore.ieee.org/document/9420734) by Giacomo De Palma, Milad Marvian, Dario Trevisan, and Seth Lloyd.
 
 The quantum Wasserstein-1 $(W_1)$ distance can be computed in two mathematically equivalent forms:
-- Primal form (Definition 6 in the paper)
+- Primal form (Definition 7 in the paper)
 - Dual form (Proposition 9 in the paper)
 
 ## Code Overview
