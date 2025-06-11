@@ -13,6 +13,6 @@ The quantum Wasserstein-1 $(W_1)$ distance can be computed in two mathematically
 ## Code Overview
 
 - `W1_primal.m`: Computes the primal formulation of the quantum $W_1$ distance.
-- `W1_dual.m`: Computes the dual formulation using a semidefinite program (SDP) via CVX.
+- `W1_dual.m`: Computes the dual formulation of the quantum $W_1$ distance. 
 
 ## Requirements
