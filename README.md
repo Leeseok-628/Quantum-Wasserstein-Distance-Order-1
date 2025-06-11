@@ -21,3 +21,7 @@ The quantum Wasserstein-1 $(W_1)$ distance can be computed in two mathematically
 - [CVX 2.2](http://cvxr.com/cvx/) (Tested with Build 1148)
 
 To install CVX, download it from [cvxr.com/cvx](http://cvxr.com/cvx/), extract it, then run `cd cvx; cvx_setup` in MATLAB.
+
+## Acknowledgements
+
+Special thanks to Quynh Nguyen and Bobak Kiani for sharing the original implementation used in this repository (with permission).
