@@ -16,3 +16,8 @@ The quantum Wasserstein-1 $(W_1)$ distance can be computed in two mathematically
 - `W1_dual.m`: Computes the dual formulation of the quantum $W_1$ distance. 
 
 ## Requirements
+
+- MATLAB R2023a (Update 5)
+- [CVX 2.2](http://cvxr.com/cvx/) (Tested with Build 1148)
+
+To install CVX, download it from [cvxr.com/cvx](http://cvxr.com/cvx/), extract it, then run `cd cvx; cvx_setup` in MATLAB.
